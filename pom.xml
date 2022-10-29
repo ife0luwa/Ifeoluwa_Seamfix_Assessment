@@ -5,6 +5,8 @@
     <packaging>pom</packaging>
     <modules>
         <module>Fraud_Warning_Algorithm</module>
+        <module>Question1_Diagrams</module>
+        <module>BvnValidation</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>

@@ -1,7 +1,6 @@
 package ifeoluwa.clement.seamfix_software_engineer_assessment.controller;
 
 import ifeoluwa.clement.seamfix_software_engineer_assessment.dto.BvnValidationRequest;
-import ifeoluwa.clement.seamfix_software_engineer_assessment.entities.RequestAndResponsePayload;
 import ifeoluwa.clement.seamfix_software_engineer_assessment.responses.BvnValidationResponse;
 import ifeoluwa.clement.seamfix_software_engineer_assessment.service.BvnValidationService;
 import ifeoluwa.clement.seamfix_software_engineer_assessment.service.RequestResponsePayloadService;
